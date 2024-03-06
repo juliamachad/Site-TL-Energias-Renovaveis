@@ -1,10 +1,12 @@
 
-# Site TL Energias Renovaveis
-Site estático one page inteiramente desenvolvido por mim para uma empresa de energia solar
+# TL Energias Renovaveis
+The TL Energias Renovaveis website is a one-page dedicated to showcasing a solar energy company's services and offerings. Visitors to the site can explore information about TL Energias Renovaveis, including its mission, services, and projects, all presented in a visually appealing and easy-to-navigate format. 
 
-Utilização apenas de HTML, CSS, JS e Bootstrap
+The site's one-page design ensures a streamlined browsing experience, allowing users to access all relevant content without the need for excessive navigation. 
 
-Hospedagem através do firebase
+With hosting provided through Firebase, the TL Energias Renovaveis website ensures reliable performance and accessibility, allowing users to learn more about the company's commitment to renewable energy solutions with ease and convenience.
+
+Technologies Used: HTML, CSS, JavaScript, and Bootstrap.
 
 
 ![Captura de tela 2022-04-29 124428](https://user-images.githubusercontent.com/64756425/165979437-9c3120fb-5450-47b1-9c81-eb4b2bcc14aa.png)
